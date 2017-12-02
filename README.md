@@ -15,6 +15,7 @@ you can share those stock to social media.
 <!-- toc -->
 * [Environment](#environment)
 * [Author](#author)
+* [Component](#component)
 * [Screenshots](#screenshots)
 * [Installation](#installation)
     * [Command](#command)
