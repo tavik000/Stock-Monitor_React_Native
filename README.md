@@ -6,7 +6,7 @@ This is a Stock-monitor App and work fine across both iOS & Android <br>
 This is a standard React Native project(`react-native init`).
 
 You can shuffle a number in blue box though press 'generate' button or shake your phone. <br>
-You can check the company's stock of those company id of the boxes.<br>
+You can check the company's stock of those company id of the boxes by pressing 'Quandl Stock' button.<br>
 you can share those stock to social media.
 
 
@@ -40,6 +40,10 @@ you can share those stock to social media.
 ## Author
 <img src="https://github.com/favicon.ico" width="24">[key](https://github.com/tavik000)
 
+## Component
+
+[react-native-shake-event](https://github.com/jadsonlourenco/react-native-shake-event) <br>
+[react-native-share](https://github.com/EstebanFuentealba/react-native-share)
 
 
 -----
